@@ -2,7 +2,8 @@
 The app uses Nest js for the backend and React native for the front end. MongoDB for fetching all products and authentication along with bcrypt to hash passwords and jwt to generate tokens upon login, Firebase for storage, Redux for state management, React Navigation for navigation, and Async Storage for storing data in memory.
 
 # Tech Stack: 
-Client: React Native, Firebase, React Navigation, Axios
+Client: React Native, Firebase, React Navigation, Axios       
+
 Server: Nest JS, Bcrypt, Jwt, Express JS
 
 # Database:
